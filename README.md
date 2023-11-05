@@ -24,6 +24,5 @@
 
 <p ><img height="192px" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=harley021&" alt="harley021" /><img height="192px" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=harley021&show_icons=true&locale=en" alt="harley021" /></p>
 
-<p align="right">&nbsp;</p>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=harley021&show_icons=true&locale=en&layout=compact" alt="harley021" /></p>
