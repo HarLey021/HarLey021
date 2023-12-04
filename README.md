@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
-- 💬 Ask me about **React, TypeScript, HTML, CSS**
+- 💬 Ask me about **React, TypeScript, HTML, CSS, Tailwind, Styled Components**
 
 - 📫 How to reach me **qevxishvili.dato99@gmail.com**
 
